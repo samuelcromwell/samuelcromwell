@@ -1,6 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 <br>
-I'm Cromwell
+Welcome to my page 😄
+<br>
+I'm Cromwell ✨
 ================================================================================================================================
 
 Developer || ALX SWE Student || Computer Science Student
