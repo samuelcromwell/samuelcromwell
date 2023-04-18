@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm Cromwell
 ================================================================================================================================
 
-Developer || ALX SWE Student || Comp Sci Student
+Developer || ALX SWE Student || Computer Science Student
 ------------------------------------------------
 
 I love coding
