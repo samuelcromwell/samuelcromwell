@@ -5,7 +5,7 @@ Welcome to my page 😄
 I'm Cromwell ✨
 ================================================================================================================================
 
-Developer || ALX SWE Student || Computer Science Student
+Developer || Computer Science Student
 ------------------------------------------------
 
 I love coding
