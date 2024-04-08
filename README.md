@@ -5,7 +5,7 @@ Welcome to my page 😄
 I'm Cromwell ✨
 ================================================================================================================================
 
-Developer || Computer Science Student
+Developer || Computer Scientist 💻
 ------------------------------------------------
 
 I love coding
