@@ -12,8 +12,8 @@ I love coding
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [cromwellsamuel3@gmail.com](mailto:cromwellsamuel3@gmail.com)
-* 🧠  I'm learning Python, Flutter and basically any other thing
-* 🤝  I'm open to collaborating on any interesting projects
+* 🧠  I'm learning Angular and Flutter
+* 🤝  I'm open to collaborating on any interesting Django projects
 * ⚡  I enjoy reading programming and IT related articles
 
 <a href="https://www.github.com/samuelcromwell" target="_blank" rel="noreferrer"><img
