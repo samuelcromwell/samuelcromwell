@@ -12,7 +12,7 @@ I love coding
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [cromwellsamuel3@gmail.com](mailto:cromwellsamuel3@gmail.com)
-* 🧠  I'm learning Angular and Flutter
+* 🧠  I'm learning Angular and React
 * 🤝  I'm open to collaborating on any interesting Django projects
 * ⚡  I enjoy reading programming and IT related articles
 
