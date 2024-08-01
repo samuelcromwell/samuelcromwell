@@ -16,7 +16,6 @@ I love coding
 * 🤝  I'm open to collaborating on any interesting Django projects
 * ⚡  I enjoy reading programming and IT related articles
   
-<a href="https://wakatime.com/@cromwell"><img src="https://wakatime.com/badge/cromwell/waka_d8309a9b-6eca-457b-8ee2-6cd8ce750d24.svg" alt="wakatime" /></a>
 <a href="https://www.github.com/samuelcromwell" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/samuelcromwell?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/explicit_lit" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/explicit_lit?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
