@@ -22,6 +22,7 @@ I love coding
 <a href="https://www.twitter.com/explicit_lit" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/twitter/follow/explicit_lit?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Twitter followers badge" />
 </a>
+<br>
 <a href="https://wakatime.com/@018ce918-f548-4a69-a429-12aaba0eec9d" target="_blank" rel="noreferrer">
     <img src="https://wakatime.com/badge/user/018ce918-f548-4a69-a429-12aaba0eec9d.svg" alt="WakaTime badge" />
 </a>
