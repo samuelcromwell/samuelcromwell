@@ -16,10 +16,16 @@ I love coding
 * 🤝  I'm open to collaborating on any interesting Django projects
 * ⚡  I enjoy reading programming and IT related articles
 
-<a href="https://www.github.com/samuelcromwell" target="_blank" rel="noreferrer"><img/></a>
-src="https://img.shields.io/github/followers/samuelcromwell?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/explicit_lit" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/explicit_lit?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-[![wakatime](https://wakatime.com/badge/user/018ce918-f548-4a69-a429-12aaba0eec9d.svg)](https://wakatime.com/@018ce918-f548-4a69-a429-12aaba0eec9d)                                                                                                                                                                                                   
+<a href="https://www.github.com/samuelcromwell" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/followers/samuelcromwell?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub followers badge" />
+</a>
+<a href="https://www.twitter.com/explicit_lit" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/twitter/follow/explicit_lit?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Twitter followers badge" />
+</a>
+<a href="https://wakatime.com/@018ce918-f548-4a69-a429-12aaba0eec9d" target="_blank" rel="noreferrer">
+    <img src="https://wakatime.com/badge/user/018ce918-f548-4a69-a429-12aaba0eec9d.svg" alt="WakaTime badge" />
+</a>
+                                                                                                                                                                                
 
 
 ### Skills
