@@ -5,15 +5,15 @@ Welcome to my page 😄
 I'm Cromwell ✨
 ================================================================================================================================
 
-Developer || Computer Scientist 💻
+Software Developer || Computer Scientist 💻
 ------------------------------------------------
 
-I love coding
+I am passionate about developing software solutions and continuously improving my coding skills.
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [cromwellsamuel3@gmail.com](mailto:cromwellsamuel3@gmail.com)
-* 🧠  I'm learning Angular and React
-* 🤝  I'm open to collaborating on any interesting Django projects
+* 🧠  I'm currently learning ReactJS
+* 🤝  I'm a Django developer, open to collaborating on any interesting Django projects
 * ⚡  I enjoy reading programming and IT related articles
 
 <a href="https://www.github.com/samuelcromwell" target="_blank" rel="noreferrer">
