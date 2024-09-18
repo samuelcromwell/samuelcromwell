@@ -16,6 +16,7 @@ I am passionate about developing software solutions and continuously improving m
 * 🤝  I'm a Django developer, open to collaborating on any interesting Django projects
 * ⚡  I enjoy reading programming and IT related articles
 
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/samuelcromwell/&title=Profile%20views)
 <a href="https://www.github.com/samuelcromwell" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/github/followers/samuelcromwell?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub followers badge" />
 </a>
