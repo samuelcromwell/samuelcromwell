@@ -16,9 +16,6 @@ I am passionate about developing software solutions and continuously improving m
 * 🤝  I'm a Django developer, open to collaborating on any interesting Django projects
 * ⚡  I enjoy reading programming and IT related articles
 
-<a>
-![Profile views](https://komarev.com/ghpvc/?username=samuelcromwell&label=Profile%20views&color=0e75b6&style=flat)
-</a>
 <a href="https://www.github.com/samuelcromwell" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/github/followers/samuelcromwell?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub followers badge" />
 </a>
