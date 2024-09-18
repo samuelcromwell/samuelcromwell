@@ -17,7 +17,7 @@ I am passionate about developing software solutions and continuously improving m
 * ⚡  I enjoy reading programming and IT related articles
 
 <a>
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/samuelcromwell&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=false)
+![Profile views](https://komarev.com/ghpvc/?username=samuelcromwell&label=Profile%20views&color=0e75b6&style=flat)
 </a>
 <a href="https://www.github.com/samuelcromwell" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/github/followers/samuelcromwell?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub followers badge" />
