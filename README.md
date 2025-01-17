@@ -54,7 +54,13 @@ I am passionate about developing software solutions and continuously improving m
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/samuelcromwell"><img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelcromwell&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/samuelcromwell" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=samuelcromwell&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" 
+    alt="Samuel Cromwell's GitHub Streak Stats"
+    style="border-radius: 8px; display: block; margin: 10px auto;" 
+  />
+</a>
 
 <a href="https://github.com/samuelcromwell" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelcromwell&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
