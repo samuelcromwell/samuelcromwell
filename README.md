@@ -12,7 +12,7 @@ I am passionate about developing software solutions and continuously improving m
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [cromwellsamuel3@gmail.com](mailto:cromwellsamuel3@gmail.com)
-* 🧠  I'm currently learning RemixJS and Laravel
+* 🧠  I'm currently learning RemixJS
 * 🤝  I'm a Django developer, open to collaborating on any interesting Django projects
 * ⚡  I enjoy reading programming and IT related articles
 
