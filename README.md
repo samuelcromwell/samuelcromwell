@@ -13,7 +13,7 @@ I am passionate about developing software solutions and continuously improving m
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [cromwellsamuel3@gmail.com](mailto:cromwellsamuel3@gmail.com)
 * 🧠  I'm currently learning RemixJS and Flutter
-* 🤝  I mainly work with **Django**, **React**, and **Next.js**, I am open to collaborating on interesting projects
+* 🤝  I mainly work with **Laravel**, **Django**, **React**, and **Next.js**, I am open to collaborating on interesting projects
 * ⚡  I enjoy reading programming and IT related articles
 
 <a href="https://www.github.com/samuelcromwell" target="_blank" rel="noreferrer">
