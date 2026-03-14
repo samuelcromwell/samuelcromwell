@@ -5,7 +5,7 @@ Welcome to my page 😄
 I'm Cromwell ✨
 ================================================================================================================================
 
-Software Developer || Computer Scientist 💻
+Software Engineer || Computer Scientist 💻
 ------------------------------------------------
 
 I am passionate about developing software solutions and continuously improving my coding skills.
