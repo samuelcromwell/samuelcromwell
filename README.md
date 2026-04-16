@@ -26,7 +26,7 @@ I am passionate about developing software solutions and continuously improving m
                                                                                                                                                                                 
 
 
-### Skills
+
 
 
 <!-- <p align="left">
